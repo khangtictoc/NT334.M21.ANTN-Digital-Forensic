@@ -51,3 +51,6 @@ Chúng ta có thể chọn từng version, chọn folders/files cụ thể muố
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/48288606/164053775-b1ddcde6-93dd-4fe6-8de3-4618f9913fda.png" > </p>
 
+Tham khảo thêm về:
+
+[Cấu hình và quản lý File History](About&#32Configuration&#32-&#32File&#32History.md)
