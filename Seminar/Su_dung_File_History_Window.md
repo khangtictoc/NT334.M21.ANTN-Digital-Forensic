@@ -6,6 +6,8 @@
 
 **Hard Drive**: Ổ cứng drive HDD (1TB) (có thể sử dụng bất kỳ **thiết bị lưu trữ ngoại vi** nào SSD, USB drive, hoặc có thể là một Drive trên một network )
 
+**Tham khảo:** https://support.microsoft.com/en-us/windows/file-history-in-windows-5de0e203-ebae-05ab-db85-d5aa0a199255
+
 ## Thao tác sử dụng: 
 
 Kết nối ổ cứng ngoài vào máy. Đảm bảo File System trên Window đọc và nhận diện được ổ đĩa.
