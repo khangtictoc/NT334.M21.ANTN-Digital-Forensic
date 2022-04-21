@@ -53,4 +53,4 @@ Chúng ta có thể chọn từng version, chọn folders/files cụ thể muố
 
 Tham khảo thêm về:
 
-[Cấu hình và quản lý File History](About-Configuration-File%20History.md)
+[Cấu hình và quản lý File History](About%20Configuration-File%20History.md)
