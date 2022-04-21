@@ -53,4 +53,4 @@ Chúng ta có thể chọn từng version, chọn folders/files cụ thể muố
 
 Tham khảo thêm về:
 
-[Cấu hình và quản lý File History](Deep#&32Understanding-File#&32History.md)
+[Cấu hình và quản lý File History](Deep%20Understanding-File%20History.md)
