@@ -1,0 +1,1 @@
+# Tài nguyên lab2 nặng quá nên mình không upload được 
