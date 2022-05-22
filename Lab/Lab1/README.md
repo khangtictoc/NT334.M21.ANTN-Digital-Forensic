@@ -1,0 +1,1 @@
+# Tài nguyên lab1 nặng quá nên mình không upload được. Tham khảo bài giải
